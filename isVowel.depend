@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551986374 source:c:\users\windows7\documents\software\isvowel\main.cpp
+	<iostream>
+	<cmath>
+
